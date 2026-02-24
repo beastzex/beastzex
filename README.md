@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋   
 ### Myself Akshat !!!
 ### B. Tech Computer Science & Engineering student at Amity University, Noida, with a deep passion for Artificial Intelligence, Machine Learning, Generative AI, Agentic AI and Full stack applications. Proven track record as a 3× Hackathon Winner and 7× Hackathon Finalist at national-level competitions. Experienced in building and deploying real-world AI solutions — from on-device ML to e-commerce automation — with hands-on skills spanning full-stack development, Agentic workflows, data analysis, and software architecture.
 ### Co-founder ADS | Samsung EnnovateX AI Challenge 2025 1st Runner Up | Innovate with GoIStats Top 30 winner nationally 
