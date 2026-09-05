@@ -1,8 +1,18 @@
-## Hi there 👋           
+### Hi there 👋           
 ### Myself Akshat !!!
 #### CS Undergard with a deep passion for Artificial Intelligence, Machine Learning, Generative AI, Agentic AI and Full stack applications. Proven track record as a 5× Hackathon Winner and 15× Hackathon Finalist at national-level competitions. Experienced in building and deploying real-world AI solutions — from on-device ML to e-commerce automation — with hands-on skills spanning full-stack development, Agentic workflows, data analysis, and software architecture.
-### Co-founder ADS | Samsung EnnovateX AI Challenge 2025 1st Runner Up | Innovate with GoIStats Top 30 winner nationally 
-### this above line i copy pasted from my linkedin haha 😄😄!!
+#### Samsung EnnovateX AI Challenge 2025 1st Runner Up | Suraksha Manthan Punjab & Sind Bank 2026 1st Runner Up | Innovate with GoIStats Top 30 winner nationally 
+
+### Co-founder, MD and CTO @Axevron www.axevron.com
+### Building @Axevron
+### Building @Wardrobe
+### Building @Cortex
+### Building @ReDessIo 
+
+### Tech Lead and AI Engineer @ACHL
+
+Half time Artist and Singer 
+Love to play chess & maths 
 
 
 ## 🌐 Socials:
